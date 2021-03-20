@@ -4,10 +4,10 @@
 
 ## Vocabulaires
 
-- [Les chiffres](./chiffres.md)
-- [Les couleurs](./couleurs.md)
-- [Localiser un objet](./localisation.md)
-- [Les pays](./pays.md)
+- [Les chiffres](./vocabulaire/chiffres.md)
+- [Les couleurs](./vocabulaire/couleurs.md)
+- [Localiser un objet](./vocabulaire/localisation.md)
+- [Les pays](./vocabulaire/pays.md)
 - [La maison](./vocabulaire/maison/README.md)
 
 ## Grammaire
@@ -18,3 +18,7 @@
 ## Conjugaison
 
 - [Les verbes](./verbes.md)
+
+## Expressions
+
+- [Faire connaissance](./expressions/faire-connaissance.md)
