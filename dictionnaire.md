@@ -1,1 +1,3 @@
-sinon : 없다면
+| Français | Coréen |
+| -------- | ------ |
+| sinon    | 없다면 |
