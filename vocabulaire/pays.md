@@ -2,11 +2,9 @@
 
 L'équivalent du mot "pays" est 국.
 
-Exemple :
-
-| Français         | Coréen                                                         |
-| ---------------- | -------------------------------------------------------------- |
-| Je suis Français | 저[는](./particules/particule-de-thème.md) 프랑스 사람ㄴ입니다 |
+| Français         | Coréen                                                          |
+| ---------------- | --------------------------------------------------------------- |
+| Je suis Français | 저[는](../particules/particule-de-thème.md) 프랑스 사람ㄴ입니다 |
 
 | Français       | Coréen   |
 | -------------- | -------- |
