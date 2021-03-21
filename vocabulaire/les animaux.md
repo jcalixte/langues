@@ -1,0 +1,25 @@
+# Les animaux - 동물
+
+| Français    | Coréen |
+| ----------- | ------ |
+| Cheval      | 말     |
+| Poulain     | 말아지 |
+| Vache       | 소     |
+| Veau        | 송아지 |
+| Chien       | 개     |
+| Chiot       | 강아지 |
+| Chat        | 고양이 |
+| Mouton      | 양     |
+| Cochon      | 돼지   |
+| Lapin       | 토끼   |
+| Biche       | 사슴   |
+| Singe       | 원숭이 |
+| Lion        | 사자   |
+| Tigre       | 호랑이 |
+| Leopard     | 표범   |
+| Renard      | 여우   |
+| Ours        | 곰     |
+| Éléphant    | 코끼리 |
+| Hippopotame | 하마   |
+| Zèbre       | 얼룩말 |
+| Rhinocéros  | 코뿔소 |
