@@ -17,7 +17,7 @@
 
 ## Conjugaison
 
-- [Les verbes](./verbes.md)
+- [Les verbes](./verbes/README.md)
 
 ## Expressions
 

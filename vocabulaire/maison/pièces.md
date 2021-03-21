@@ -1,6 +1,7 @@
 # La maison et l'appartement
 
-> On ne compte pas les étages comme en France. En effet, le rez-de-chaussée est considéré comme le premier étage.
+> On ne compte pas les étages comme en France.
+> En effet, le rez-de-chaussée est considéré comme le premier étage.
 
 | Français         | Coréen |
 | ---------------- | ------ |
