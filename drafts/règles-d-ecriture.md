@@ -1,6 +1,6 @@
 # Règles d'espacement
 
-한 번 != 한번
+한 번 ≠ 한번
 
 Un espace s'écrit : **띄어쓰기**
 

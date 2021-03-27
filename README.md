@@ -22,4 +22,4 @@
 
 ## Expressions
 
-- [Faire connaissance](./expressions/faire-connaissance.md)
+- [Exprimer une condition](./expressions/exprimer-une-condition.md)
