@@ -10,3 +10,5 @@
 | [Marcher](./marcher.md) | 걷다      | 걷 (걸어요) | 걸었어 (걸었어요) | 걷고 있어요        |
 | Écrire                  | 쓰기      |             |                   |                    |
 | Vendre                  | 팔다      |             | 팔렸어            |                    |
+| Manger                  |           | 드세오      |                   |                    |
+| Se battre               |           | 싸우세요    |                   |                    |
