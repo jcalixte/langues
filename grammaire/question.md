@@ -15,7 +15,7 @@ En coréen, l'ordre des mots est le même dans les phrases affirmatives et inter
 
 **뭐**예요, abbréviation de **무엇**이에요, est principalement utilisée dans le langage courant.
 
-> En coréen, un sujet ou un thème peut être omis s'ilest évident d'après le contexte.
+> En coréen, un sujet ou un thème peut être omis s'il est évident d'après le contexte.
 
 ### Quel
 
