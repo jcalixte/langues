@@ -26,7 +26,7 @@ En coréen, l'ordre des mots est le même dans les phrases affirmatives et inter
 
 ### Exemples
 
-| Questions                                                             | Réponses           |
-| --------------------------------------------------------------------- | ------------------ |
-| 폴 씨[는](./particules/particule-de-thème.md) 어느 느라 사람이에요?   | 프랑스 사람이에요. |
-| 윤아 씨[는](./particules/particule-de-thème.md) 어느 나라 사람이에요? | 한극 사람이에요.   |
+| Questions                                                              | Réponses           |
+| ---------------------------------------------------------------------- | ------------------ |
+| 폴 씨[는](../particules/particule-de-thème.md) 어느 느라 사람이에요?   | 프랑스 사람이에요. |
+| 윤아 씨[는](../particules/particule-de-thème.md) 어느 나라 사람이에요? | 한극 사람이에요.   |
