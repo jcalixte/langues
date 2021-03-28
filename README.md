@@ -23,3 +23,4 @@
 ## Expressions
 
 - [Exprimer une condition](./expressions/exprimer-une-condition.md)
+- [L'appartenance](./expressions/appartenance.md)
