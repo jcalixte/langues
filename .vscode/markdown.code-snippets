@@ -3,7 +3,8 @@
     "prefix": "traduction",
     "body": [
       "| Français | Coréen |",
-      "|-|-|"
+      "|-|-|",
+      "| "
     ],
     "description": "Table traduction for French and Korean"
   }
