@@ -4,7 +4,7 @@
 
 ## Vocabulaires
 
-- [Les chiffres](./vocabulaire/chiffres.md)
+- [Les nombres](./vocabulaire/les-nombres.md)
 - [Les couleurs](./vocabulaire/couleurs.md)
 - [Localiser un objet](./vocabulaire/localisation.md)
 - [Les pays](./vocabulaire/pays.md)
